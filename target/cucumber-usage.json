@@ -1,0 +1,1135 @@
+[
+  {
+    "source": "^Click On Configuration Item LookUP for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Configuration Item LookUP for change request scenario",
+        "aggregatedDurations": {
+          "average": 6.896755818,
+          "median": 7.171001223
+        },
+        "durations": [
+          {
+            "duration": 7.203327574,
+            "location": "CNET_ChangeRequestEmergency.feature:18"
+          },
+          {
+            "duration": 7.171001223,
+            "location": "CNET_ChangeRequestNormal.feature:18"
+          },
+          {
+            "duration": 6.315938657,
+            "location": "CNET_ChangeRequestStandard.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Switch to Multiple Window and Select Text as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Switch to Multiple Window and Select Text as \"CAB Approval\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 1.469634868,
+          "median": 1.469634868
+        },
+        "durations": [
+          {
+            "duration": 1.418421187,
+            "location": "CNET_ChangeRequestEmergency.feature:21"
+          },
+          {
+            "duration": 1.52084855,
+            "location": "CNET_ChangeRequestStandard.feature:22"
+          }
+        ]
+      },
+      {
+        "name": "Switch to Multiple Window and Select Text as \"QA\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 1.494088969,
+          "median": 1.494088969
+        },
+        "durations": [
+          {
+            "duration": 1.494088969,
+            "location": "CNET_ChangeRequestNormal.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Submit Button for change request scenario$",
+    "steps": [
+      {
+        "name": "Click on Submit Button for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.290236378,
+          "median": 0.311520139
+        },
+        "durations": [
+          {
+            "duration": 0.311520139,
+            "location": "CNET_ChangeRequestEmergency.feature:26"
+          },
+          {
+            "duration": 0.23310853,
+            "location": "CNET_ChangeRequestNormal.feature:26"
+          },
+          {
+            "duration": 0.326080467,
+            "location": "CNET_ChangeRequestStandard.feature:36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Approval Tab$",
+    "steps": [
+      {
+        "name": "Click On Approval Tab",
+        "aggregatedDurations": {
+          "average": 5.584089568,
+          "median": 5.584089568
+        },
+        "durations": [
+          {
+            "duration": 5.850897646,
+            "location": "CNET_ChangeRequestEmergency.feature:28"
+          },
+          {
+            "duration": 5.317281491,
+            "location": "CNET_ChangeRequestNormal.feature:28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Right Click On Approval Button and click on Approve Button for QA Group$",
+    "steps": [
+      {
+        "name": "Right Click On Approval Button and click on Approve Button for QA Group",
+        "aggregatedDurations": {
+          "average": 7.232263486,
+          "median": 7.232263486
+        },
+        "durations": [
+          {
+            "duration": 7.232263486,
+            "location": "CNET_ChangeRequestNormal.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Risk Name as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Select Risk Name as \"High\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.325134354,
+          "median": 0.317068091
+        },
+        "durations": [
+          {
+            "duration": 0.398621672,
+            "location": "CNET_ChangeRequestEmergency.feature:16"
+          },
+          {
+            "duration": 0.259713301,
+            "location": "CNET_ChangeRequestNormal.feature:16"
+          },
+          {
+            "duration": 0.317068091,
+            "location": "CNET_ChangeRequestStandard.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Right Click On Approval Button and click on Approve Button for CAB Approval$",
+    "steps": [
+      {
+        "name": "Right Click On Approval Button and click on Approve Button for CAB Approval",
+        "aggregatedDurations": {
+          "average": 7.338028687,
+          "median": 7.338028687
+        },
+        "durations": [
+          {
+            "duration": 7.317266522,
+            "location": "CNET_ChangeRequestEmergency.feature:31"
+          },
+          {
+            "duration": 7.358790852,
+            "location": "CNET_ChangeRequestNormal.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Closed as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Verify Closed as \"Closed\"",
+        "aggregatedDurations": {
+          "average": 0.151314037,
+          "median": 0.15645629
+        },
+        "durations": [
+          {
+            "duration": 0.15645629,
+            "location": "CNET_ChangeRequestEmergency.feature:47"
+          },
+          {
+            "duration": 0.158832761,
+            "location": "CNET_ChangeRequestNormal.feature:47"
+          },
+          {
+            "duration": 0.138653061,
+            "location": "CNET_ChangeRequestStandard.feature:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Close Code as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Select Close Code as \"Successful\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.37173807,
+          "median": 0.257350086
+        },
+        "durations": [
+          {
+            "duration": 0.621881762,
+            "location": "CNET_ChangeRequestEmergency.feature:43"
+          },
+          {
+            "duration": 0.235982363,
+            "location": "CNET_ChangeRequestNormal.feature:43"
+          },
+          {
+            "duration": 0.257350086,
+            "location": "CNET_ChangeRequestStandard.feature:47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Review as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Verify Review as \"Review\"",
+        "aggregatedDurations": {
+          "average": 0.181296846,
+          "median": 0.189206446
+        },
+        "durations": [
+          {
+            "duration": 0.191230959,
+            "location": "CNET_ChangeRequestEmergency.feature:41"
+          },
+          {
+            "duration": 0.189206446,
+            "location": "CNET_ChangeRequestNormal.feature:41"
+          },
+          {
+            "duration": 0.163453133,
+            "location": "CNET_ChangeRequestStandard.feature:45"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select State as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Select State as \"Authorize\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.244428526,
+          "median": 0.244428526
+        },
+        "durations": [
+          {
+            "duration": 0.244428526,
+            "location": "CNET_ChangeRequestEmergency.feature:24"
+          }
+        ]
+      },
+      {
+        "name": "Select State as \"Assess\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.22177827,
+          "median": 0.22177827
+        },
+        "durations": [
+          {
+            "duration": 0.22177827,
+            "location": "CNET_ChangeRequestNormal.feature:24"
+          }
+        ]
+      },
+      {
+        "name": "Select State as \"Scheduled\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.235897688,
+          "median": 0.235897688
+        },
+        "durations": [
+          {
+            "duration": 0.235897688,
+            "location": "CNET_ChangeRequestStandard.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Value in Implemenatation Plan Text Box \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Enter Value in Implemenatation Plan Text Box \"Testing Sample\"",
+        "aggregatedDurations": {
+          "average": 0.383433119,
+          "median": 0.383433119
+        },
+        "durations": [
+          {
+            "duration": 0.401776474,
+            "location": "CNET_ChangeRequestEmergency.feature:37"
+          },
+          {
+            "duration": 0.365089764,
+            "location": "CNET_ChangeRequestNormal.feature:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Emergency Link for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Emergency Link for change request scenario",
+        "aggregatedDurations": {
+          "average": 5.378300419,
+          "median": 5.378300419
+        },
+        "durations": [
+          {
+            "duration": 5.378300419,
+            "location": "CNET_ChangeRequestEmergency.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Switch to Multiple Window and Select Text as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Switch to Multiple Window and Select Text as \"*CAROL-IBM\"",
+        "aggregatedDurations": {
+          "average": 6.712619208,
+          "median": 9.983482727
+        },
+        "durations": [
+          {
+            "duration": 10.022249117,
+            "location": "CNET_ChangeRequestEmergency.feature:19"
+          },
+          {
+            "duration": 9.983482727,
+            "location": "CNET_ChangeRequestNormal.feature:19"
+          },
+          {
+            "duration": 0.132125781,
+            "location": "CNET_ChangeRequestStandard.feature:19"
+          }
+        ]
+      },
+      {
+        "name": "Switch to Multiple Window and Select Text as \"Howard Johnson\"",
+        "aggregatedDurations": {
+          "average": 9.865079501,
+          "median": 9.865079501
+        },
+        "durations": [
+          {
+            "duration": 9.857421504,
+            "location": "CNET_ChangeRequestEmergency.feature:23"
+          },
+          {
+            "duration": 9.872737498,
+            "location": "CNET_ChangeRequestStandard.feature:24"
+          }
+        ]
+      },
+      {
+        "name": "Switch to Multiple Window and Select Text as \"QA 1\"",
+        "aggregatedDurations": {
+          "average": 9.832755288,
+          "median": 9.832755288
+        },
+        "durations": [
+          {
+            "duration": 9.832755288,
+            "location": "CNET_ChangeRequestNormal.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Assigned Group LookUP for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Assigned Group LookUP for change request scenario",
+        "aggregatedDurations": {
+          "average": 6.520602507,
+          "median": 6.522247834
+        },
+        "durations": [
+          {
+            "duration": 6.616166597,
+            "location": "CNET_ChangeRequestEmergency.feature:20"
+          },
+          {
+            "duration": 6.423393091,
+            "location": "CNET_ChangeRequestNormal.feature:20"
+          },
+          {
+            "duration": 6.522247834,
+            "location": "CNET_ChangeRequestStandard.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter short Description as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Enter short Description as \"Sample Testing\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.553399848,
+          "median": 0.553399848
+        },
+        "durations": [
+          {
+            "duration": 0.493572364,
+            "location": "CNET_ChangeRequestEmergency.feature:25"
+          },
+          {
+            "duration": 0.613227332,
+            "location": "CNET_ChangeRequestNormal.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on recent Incident Created$",
+    "steps": [
+      {
+        "name": "Click on recent Incident Created",
+        "aggregatedDurations": {
+          "average": 1.992756614,
+          "median": 1.992756614
+        },
+        "durations": [
+          {
+            "duration": 2.100276265,
+            "location": "CNET_ChangeRequestEmergency.feature:27"
+          },
+          {
+            "duration": 1.885236963,
+            "location": "CNET_ChangeRequestNormal.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Authorize as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Verify Authorize as \"Authorize\"",
+        "aggregatedDurations": {
+          "average": 0.153623724,
+          "median": 0.153623724
+        },
+        "durations": [
+          {
+            "duration": 0.160312016,
+            "location": "CNET_ChangeRequestEmergency.feature:30"
+          },
+          {
+            "duration": 0.146935432,
+            "location": "CNET_ChangeRequestNormal.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Close Button$",
+    "steps": [
+      {
+        "name": "Click On Close Button",
+        "aggregatedDurations": {
+          "average": 0.248840915,
+          "median": 0.254505333
+        },
+        "durations": [
+          {
+            "duration": 0.254505333,
+            "location": "CNET_ChangeRequestEmergency.feature:46"
+          },
+          {
+            "duration": 0.205738259,
+            "location": "CNET_ChangeRequestNormal.feature:46"
+          },
+          {
+            "duration": 0.286279155,
+            "location": "CNET_ChangeRequestStandard.feature:50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Recently Created Incident for Standard$",
+    "steps": [
+      {
+        "name": "Click on Recently Created Incident for Standard",
+        "aggregatedDurations": {
+          "average": 0.275666926,
+          "median": 0.275666926
+        },
+        "durations": [
+          {
+            "duration": 0.275666926,
+            "location": "CNET_ChangeRequestStandard.feature:39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Launch Browser and Navigate to CNET INCIDENT URL$",
+    "steps": [
+      {
+        "name": "Launch Browser and Navigate to CNET INCIDENT URL",
+        "aggregatedDurations": {
+          "average": 32.447369358,
+          "median": 32.089723051
+        },
+        "durations": [
+          {
+            "duration": 31.69614128,
+            "location": "CNET_ChangeRequestEmergency.feature:5"
+          },
+          {
+            "duration": 32.089723051,
+            "location": "CNET_ChangeRequestNormal.feature:5"
+          },
+          {
+            "duration": 33.556243745,
+            "location": "CNET_ChangeRequestStandard.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Username and Password as \"([^\"]*)\" and \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Enter Username and Password as \"admin\" and \"Cnet345$\"",
+        "aggregatedDurations": {
+          "average": 0.672505423,
+          "median": 0.671479767
+        },
+        "durations": [
+          {
+            "duration": 0.703050882,
+            "location": "CNET_ChangeRequestEmergency.feature:8"
+          },
+          {
+            "duration": 0.671479767,
+            "location": "CNET_ChangeRequestNormal.feature:8"
+          },
+          {
+            "duration": 0.642985622,
+            "location": "CNET_ChangeRequestStandard.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Impact Name as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Select Impact Name as \"1 - High\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 5.311789417,
+          "median": 5.316747778
+        },
+        "durations": [
+          {
+            "duration": 5.316747778,
+            "location": "CNET_ChangeRequestEmergency.feature:17"
+          },
+          {
+            "duration": 5.37216102,
+            "location": "CNET_ChangeRequestNormal.feature:17"
+          },
+          {
+            "duration": 5.246459454,
+            "location": "CNET_ChangeRequestStandard.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Implement as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Verify Implement as \"Implement\"",
+        "aggregatedDurations": {
+          "average": 6.324272917,
+          "median": 6.231608748
+        },
+        "durations": [
+          {
+            "duration": 6.231608748,
+            "location": "CNET_ChangeRequestEmergency.feature:39"
+          },
+          {
+            "duration": 6.174044408,
+            "location": "CNET_ChangeRequestNormal.feature:39"
+          },
+          {
+            "duration": 6.567165596,
+            "location": "CNET_ChangeRequestStandard.feature:43"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Switch to Multiple Window$",
+    "steps": [
+      {
+        "name": "Switch to Multiple Window",
+        "aggregatedDurations": {
+          "average": 0.026965283,
+          "median": 0.026965283
+        },
+        "durations": [
+          {
+            "duration": 0.026965283,
+            "location": "CNET_ChangeRequestStandard.feature:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Select Planned Start Date$",
+    "steps": [
+      {
+        "name": "Select Planned Start Date",
+        "aggregatedDurations": {
+          "average": 6.751969915,
+          "median": 6.721704285
+        },
+        "durations": [
+          {
+            "duration": 6.721704285,
+            "location": "CNET_ChangeRequestEmergency.feature:34"
+          },
+          {
+            "duration": 6.892076002,
+            "location": "CNET_ChangeRequestNormal.feature:34"
+          },
+          {
+            "duration": 6.642129459,
+            "location": "CNET_ChangeRequestStandard.feature:34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Implementation Button$",
+    "steps": [
+      {
+        "name": "Click On Implementation Button",
+        "aggregatedDurations": {
+          "average": 0.746571072,
+          "median": 0.319476637
+        },
+        "durations": [
+          {
+            "duration": 0.23106349,
+            "location": "CNET_ChangeRequestEmergency.feature:38"
+          },
+          {
+            "duration": 0.319476637,
+            "location": "CNET_ChangeRequestNormal.feature:38"
+          },
+          {
+            "duration": 1.689173089,
+            "location": "CNET_ChangeRequestStandard.feature:42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Priority Name as \"([^\"]*)\" for change request scenario$",
+    "steps": [
+      {
+        "name": "Select Priority Name as \"1 - Critical\" for change request scenario",
+        "aggregatedDurations": {
+          "average": 1.818984408,
+          "median": 1.800284818
+        },
+        "durations": [
+          {
+            "duration": 0.598717039,
+            "location": "CNET_ChangeRequestEmergency.feature:15"
+          },
+          {
+            "duration": 1.800284818,
+            "location": "CNET_ChangeRequestNormal.feature:15"
+          },
+          {
+            "duration": 3.057951368,
+            "location": "CNET_ChangeRequestStandard.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Standard Link for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Standard Link for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.405290505,
+          "median": 0.405290505
+        },
+        "durations": [
+          {
+            "duration": 0.405290505,
+            "location": "CNET_ChangeRequestStandard.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify whether Login page is correctly opened or not$",
+    "steps": [
+      {
+        "name": "Verify whether Login page is correctly opened or not",
+        "aggregatedDurations": {
+          "average": 0.022665081,
+          "median": 0.024010623
+        },
+        "durations": [
+          {
+            "duration": 0.025326942,
+            "location": "CNET_ChangeRequestEmergency.feature:7"
+          },
+          {
+            "duration": 0.024010623,
+            "location": "CNET_ChangeRequestNormal.feature:7"
+          },
+          {
+            "duration": 0.01865768,
+            "location": "CNET_ChangeRequestStandard.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Assigned To LookUP for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Assigned To LookUP for change request scenario",
+        "aggregatedDurations": {
+          "average": 6.447339137,
+          "median": 6.451910757
+        },
+        "durations": [
+          {
+            "duration": 6.451910757,
+            "location": "CNET_ChangeRequestEmergency.feature:22"
+          },
+          {
+            "duration": 6.473424309,
+            "location": "CNET_ChangeRequestNormal.feature:22"
+          },
+          {
+            "duration": 6.416682347,
+            "location": "CNET_ChangeRequestStandard.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Schedule Button$",
+    "steps": [
+      {
+        "name": "Click On Schedule Button",
+        "aggregatedDurations": {
+          "average": 5.291306653,
+          "median": 5.282331911
+        },
+        "durations": [
+          {
+            "duration": 5.311161764,
+            "location": "CNET_ChangeRequestEmergency.feature:32"
+          },
+          {
+            "duration": 5.282331911,
+            "location": "CNET_ChangeRequestNormal.feature:32"
+          },
+          {
+            "duration": 5.280426285,
+            "location": "CNET_ChangeRequestStandard.feature:32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Planning Tab$",
+    "steps": [
+      {
+        "name": "Click On Planning Tab",
+        "aggregatedDurations": {
+          "average": 0.288532677,
+          "median": 0.288532677
+        },
+        "durations": [
+          {
+            "duration": 0.325902563,
+            "location": "CNET_ChangeRequestEmergency.feature:36"
+          },
+          {
+            "duration": 0.251162791,
+            "location": "CNET_ChangeRequestNormal.feature:36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Create New Button$",
+    "steps": [
+      {
+        "name": "Click on Create New Button",
+        "aggregatedDurations": {
+          "average": 3.421932653,
+          "median": 3.42796642
+        },
+        "durations": [
+          {
+            "duration": 3.39749737,
+            "location": "CNET_ChangeRequestEmergency.feature:12"
+          },
+          {
+            "duration": 3.440334169,
+            "location": "CNET_ChangeRequestNormal.feature:12"
+          },
+          {
+            "duration": 3.42796642,
+            "location": "CNET_ChangeRequestStandard.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Closure Information Tab$",
+    "steps": [
+      {
+        "name": "Click On Closure Information Tab",
+        "aggregatedDurations": {
+          "average": 6.767346066,
+          "median": 6.746729517
+        },
+        "durations": [
+          {
+            "duration": 6.847738994,
+            "location": "CNET_ChangeRequestEmergency.feature:42"
+          },
+          {
+            "duration": 6.705296492,
+            "location": "CNET_ChangeRequestEmergency.feature:44"
+          },
+          {
+            "duration": 6.859292062,
+            "location": "CNET_ChangeRequestNormal.feature:42"
+          },
+          {
+            "duration": 6.698289813,
+            "location": "CNET_ChangeRequestNormal.feature:44"
+          },
+          {
+            "duration": 6.759481085,
+            "location": "CNET_ChangeRequestStandard.feature:46"
+          },
+          {
+            "duration": 6.73397795,
+            "location": "CNET_ChangeRequestStandard.feature:48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Scheduled as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Verify Scheduled as \"Schedule\"",
+        "aggregatedDurations": {
+          "average": 0.170704858,
+          "median": 0.170704858
+        },
+        "durations": [
+          {
+            "duration": 0.17374676,
+            "location": "CNET_ChangeRequestEmergency.feature:33"
+          },
+          {
+            "duration": 0.167662957,
+            "location": "CNET_ChangeRequestNormal.feature:33"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click On Normal Link for change request scenario$",
+    "steps": [
+      {
+        "name": "Click On Normal Link for change request scenario",
+        "aggregatedDurations": {
+          "average": 0.324490878,
+          "median": 0.324490878
+        },
+        "durations": [
+          {
+            "duration": 0.324490878,
+            "location": "CNET_ChangeRequestNormal.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Select Planned End Date$",
+    "steps": [
+      {
+        "name": "Select Planned End Date",
+        "aggregatedDurations": {
+          "average": 6.022132509,
+          "median": 6.084482154
+        },
+        "durations": [
+          {
+            "duration": 6.084482154,
+            "location": "CNET_ChangeRequestEmergency.feature:35"
+          },
+          {
+            "duration": 6.089543436,
+            "location": "CNET_ChangeRequestNormal.feature:35"
+          },
+          {
+            "duration": 5.892371939,
+            "location": "CNET_ChangeRequestStandard.feature:35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Value in Filter Navigation Field Text Box \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Enter Value in Filter Navigation Field Text Box \"Change\"",
+        "aggregatedDurations": {
+          "average": 15.795276136,
+          "median": 15.768437866
+        },
+        "durations": [
+          {
+            "duration": 15.768437866,
+            "location": "CNET_ChangeRequestEmergency.feature:9"
+          },
+          {
+            "duration": 15.759248869,
+            "location": "CNET_ChangeRequestNormal.feature:9"
+          },
+          {
+            "duration": 15.858141674,
+            "location": "CNET_ChangeRequestStandard.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Add Network Switch$",
+    "steps": [
+      {
+        "name": "Click on Add Network Switch",
+        "aggregatedDurations": {
+          "average": 0.934941882,
+          "median": 0.934941882
+        },
+        "durations": [
+          {
+            "duration": 0.934941882,
+            "location": "CNET_ChangeRequestStandard.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter Close Notes Field Text Box \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Enter Close Notes Field Text Box \"Success\"",
+        "aggregatedDurations": {
+          "average": 0.327230428,
+          "median": 0.322681048
+        },
+        "durations": [
+          {
+            "duration": 0.315990403,
+            "location": "CNET_ChangeRequestEmergency.feature:45"
+          },
+          {
+            "duration": 0.343019835,
+            "location": "CNET_ChangeRequestNormal.feature:45"
+          },
+          {
+            "duration": 0.322681048,
+            "location": "CNET_ChangeRequestStandard.feature:49"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Network Standard Changes$",
+    "steps": [
+      {
+        "name": "Click on Network Standard Changes",
+        "aggregatedDurations": {
+          "average": 1.80857959,
+          "median": 1.80857959
+        },
+        "durations": [
+          {
+            "duration": 1.80857959,
+            "location": "CNET_ChangeRequestStandard.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on review Button$",
+    "steps": [
+      {
+        "name": "Click on review Button",
+        "aggregatedDurations": {
+          "average": 6.331181237,
+          "median": 6.279425576
+        },
+        "durations": [
+          {
+            "duration": 6.443361958,
+            "location": "CNET_ChangeRequestEmergency.feature:40"
+          },
+          {
+            "duration": 6.270756178,
+            "location": "CNET_ChangeRequestNormal.feature:40"
+          },
+          {
+            "duration": 6.279425576,
+            "location": "CNET_ChangeRequestStandard.feature:44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Switch to MainFrame$",
+    "steps": [
+      {
+        "name": "Switch to MainFrame",
+        "aggregatedDurations": {
+          "average": 3.088194066,
+          "median": 3.091992182
+        },
+        "durations": [
+          {
+            "duration": 3.074751747,
+            "location": "CNET_ChangeRequestEmergency.feature:6"
+          },
+          {
+            "duration": 3.092799165,
+            "location": "CNET_ChangeRequestEmergency.feature:13"
+          },
+          {
+            "duration": 3.081812739,
+            "location": "CNET_ChangeRequestNormal.feature:6"
+          },
+          {
+            "duration": 3.091992182,
+            "location": "CNET_ChangeRequestNormal.feature:13"
+          },
+          {
+            "duration": 3.097204427,
+            "location": "CNET_ChangeRequestStandard.feature:6"
+          },
+          {
+            "duration": 3.109653001,
+            "location": "CNET_ChangeRequestStandard.feature:12"
+          },
+          {
+            "duration": 3.069145205,
+            "location": "CNET_ChangeRequestStandard.feature:38"
+          }
+        ]
+      }
+    ]
+  }
+]

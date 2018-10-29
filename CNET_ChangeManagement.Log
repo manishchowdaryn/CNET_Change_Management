@@ -1,0 +1,147 @@
+2018-10-29 20:53:48 INFO  Hook:59 - Chrome Browser Launched Successfully
+2018-10-29 20:54:20 INFO  ReusableSteps:62 - Enter CNet INCIDENT URL in the address bar of the browser
+2018-10-29 20:54:23 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 20:54:23 INFO  ReusableSteps:113 - Entered Username
+2018-10-29 20:54:24 INFO  ReusableSteps:120 - Entered Password
+2018-10-29 20:54:24 INFO  ReusableSteps:127 - Clicked on Login Button
+2018-10-29 20:54:40 INFO  ChangeRequestSteps:68 - Enter value in filter navigation
+2018-10-29 20:54:43 INFO  ChangeRequestSteps:81 - Click on New Button
+2018-10-29 20:54:46 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 20:54:51 INFO  ChangeRequestSteps:145 - Click On Emergency Link
+2018-10-29 20:54:52 INFO  ChangeRequestSteps:219 - Select Type of priority as :1 - Critical
+2018-10-29 20:54:52 INFO  ChangeRequestSteps:227 - Select Type of risk as :High
+2018-10-29 20:54:58 INFO  ChangeRequestSteps:236 - Select Type of impact as :1 - High
+2018-10-29 20:55:05 INFO  ChangeRequestSteps:156 - Click On Configuration Item LookUP
+2018-10-29 20:55:15 INFO  ReusableSteps:155 - Switch to Multiple Window and Select Text as :*CAROL-IBM
+2018-10-29 20:55:15 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 20:55:22 INFO  ChangeRequestSteps:167 - Click On Assignment Group LookUP
+2018-10-29 20:55:23 INFO  ChangeRequestSteps:187 - Switch to Multiple Window and Select Text as :CAB Approval
+2018-10-29 20:55:23 INFO  ChangeRequestSteps:197 - Switch to MainFrame
+2018-10-29 20:55:30 INFO  ChangeRequestSteps:210 - Click On Assignment TO LookUP
+2018-10-29 20:55:39 INFO  ReusableSteps:155 - Switch to Multiple Window and Select Text as :Howard Johnson
+2018-10-29 20:55:39 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 20:55:40 INFO  ChangeRequestSteps:244 - Select Type of State as :Authorize
+2018-10-29 20:55:40 INFO  ChangeRequestSteps:254 - Enter Short Description
+2018-10-29 20:55:40 INFO  ChangeRequestSteps:263 - Click on Submit Button
+2018-10-29 20:55:43 INFO  ChangeRequestSteps:283 - Click on Recent Incident Created
+2018-10-29 20:55:48 INFO  ChangeRequestSteps:294 - Click On Approval Tab
+2018-10-29 20:55:49 INFO  ChangeRequestSteps:486 - Verify Authorize Value
+2018-10-29 20:55:56 INFO  ChangeRequestSteps:323 - Click On Approval Button For CAB Approval
+2018-10-29 20:56:01 INFO  ChangeRequestSteps:366 - Click On Schedule Button
+2018-10-29 20:56:01 INFO  ChangeRequestSteps:497 - Verify Scheduled Value
+2018-10-29 20:56:07 INFO  ChangeRequestSteps:379 - Click On Planned StartDate
+2018-10-29 20:56:08 INFO  ChangeRequestSteps:385 - Click On GoToToday Date
+2018-10-29 20:56:08 INFO  ChangeRequestSteps:392 - select Ok Button
+2018-10-29 20:56:14 INFO  ChangeRequestSteps:405 - Click On Planned End Date
+2018-10-29 20:56:14 INFO  ChangeRequestSteps:413 - Click On GoToToday Date
+2018-10-29 20:56:14 INFO  ChangeRequestSteps:420 - select Ok Button
+2018-10-29 20:56:15 INFO  ChangeRequestSteps:333 - Click On Planning Tab
+2018-10-29 20:56:15 INFO  ChangeRequestSteps:344 - Enter value in Implementation Plan
+2018-10-29 20:56:15 INFO  ChangeRequestSteps:354 - Click On Implementation Button
+2018-10-29 20:56:21 INFO  ChangeRequestSteps:509 - Verify Implement Value
+2018-10-29 20:56:28 INFO  ChangeRequestSteps:430 - Click on Review Button
+2018-10-29 20:56:28 INFO  ChangeRequestSteps:520 - Verify Review Value
+2018-10-29 20:56:35 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 20:56:36 INFO  ChangeRequestSteps:454 - Select Type of Close Code as :Successful
+2018-10-29 20:56:42 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 20:56:43 INFO  ChangeRequestSteps:465 - Enter value in Close Notes
+2018-10-29 20:56:43 INFO  ChangeRequestSteps:475 - Click On Close Button
+2018-10-29 20:56:43 INFO  ChangeRequestSteps:531 - Verify Closed Value
+2018-10-29 20:56:44 INFO  Hook:79 - Chrome Browser Closed Successfully
+2018-10-29 20:56:48 INFO  Hook:59 - Chrome Browser Launched Successfully
+2018-10-29 20:57:21 INFO  ReusableSteps:62 - Enter CNet INCIDENT URL in the address bar of the browser
+2018-10-29 20:57:24 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 20:57:24 INFO  ReusableSteps:113 - Entered Username
+2018-10-29 20:57:24 INFO  ReusableSteps:120 - Entered Password
+2018-10-29 20:57:24 INFO  ReusableSteps:127 - Clicked on Login Button
+2018-10-29 20:57:40 INFO  ChangeRequestSteps:68 - Enter value in filter navigation
+2018-10-29 20:57:44 INFO  ChangeRequestSteps:81 - Click on New Button
+2018-10-29 20:57:47 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 20:57:47 INFO  ChangeRequestSteps:102 - Click On Normal Link
+2018-10-29 20:57:49 INFO  ChangeRequestSteps:219 - Select Type of priority as :1 - Critical
+2018-10-29 20:57:49 INFO  ChangeRequestSteps:227 - Select Type of risk as :High
+2018-10-29 20:57:54 INFO  ChangeRequestSteps:236 - Select Type of impact as :1 - High
+2018-10-29 20:58:02 INFO  ChangeRequestSteps:156 - Click On Configuration Item LookUP
+2018-10-29 20:58:11 INFO  ReusableSteps:155 - Switch to Multiple Window and Select Text as :*CAROL-IBM
+2018-10-29 20:58:12 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 20:58:18 INFO  ChangeRequestSteps:167 - Click On Assignment Group LookUP
+2018-10-29 20:58:19 INFO  ChangeRequestSteps:187 - Switch to Multiple Window and Select Text as :QA
+2018-10-29 20:58:19 INFO  ChangeRequestSteps:197 - Switch to MainFrame
+2018-10-29 20:58:26 INFO  ChangeRequestSteps:210 - Click On Assignment TO LookUP
+2018-10-29 20:58:36 INFO  ReusableSteps:155 - Switch to Multiple Window and Select Text as :QA 1
+2018-10-29 20:58:36 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 20:58:36 INFO  ChangeRequestSteps:244 - Select Type of State as :Assess
+2018-10-29 20:58:37 INFO  ChangeRequestSteps:254 - Enter Short Description
+2018-10-29 20:58:37 INFO  ChangeRequestSteps:263 - Click on Submit Button
+2018-10-29 20:58:39 INFO  ChangeRequestSteps:283 - Click on Recent Incident Created
+2018-10-29 20:58:44 INFO  ChangeRequestSteps:294 - Click On Approval Tab
+2018-10-29 20:58:51 INFO  ChangeRequestSteps:308 - Click On Approval Button For QA Group
+2018-10-29 20:58:51 INFO  ChangeRequestSteps:486 - Verify Authorize Value
+2018-10-29 20:58:59 INFO  ChangeRequestSteps:323 - Click On Approval Button For CAB Approval
+2018-10-29 20:59:04 INFO  ChangeRequestSteps:366 - Click On Schedule Button
+2018-10-29 20:59:04 INFO  ChangeRequestSteps:497 - Verify Scheduled Value
+2018-10-29 20:59:10 INFO  ChangeRequestSteps:379 - Click On Planned StartDate
+2018-10-29 20:59:11 INFO  ChangeRequestSteps:385 - Click On GoToToday Date
+2018-10-29 20:59:11 INFO  ChangeRequestSteps:392 - select Ok Button
+2018-10-29 20:59:17 INFO  ChangeRequestSteps:405 - Click On Planned End Date
+2018-10-29 20:59:17 INFO  ChangeRequestSteps:413 - Click On GoToToday Date
+2018-10-29 20:59:17 INFO  ChangeRequestSteps:420 - select Ok Button
+2018-10-29 20:59:18 INFO  ChangeRequestSteps:333 - Click On Planning Tab
+2018-10-29 20:59:18 INFO  ChangeRequestSteps:344 - Enter value in Implementation Plan
+2018-10-29 20:59:18 INFO  ChangeRequestSteps:354 - Click On Implementation Button
+2018-10-29 20:59:24 INFO  ChangeRequestSteps:509 - Verify Implement Value
+2018-10-29 20:59:31 INFO  ChangeRequestSteps:430 - Click on Review Button
+2018-10-29 20:59:31 INFO  ChangeRequestSteps:520 - Verify Review Value
+2018-10-29 20:59:38 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 20:59:38 INFO  ChangeRequestSteps:454 - Select Type of Close Code as :Successful
+2018-10-29 20:59:45 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 20:59:45 INFO  ChangeRequestSteps:465 - Enter value in Close Notes
+2018-10-29 20:59:45 INFO  ChangeRequestSteps:475 - Click On Close Button
+2018-10-29 20:59:45 INFO  ChangeRequestSteps:531 - Verify Closed Value
+2018-10-29 20:59:46 INFO  Hook:79 - Chrome Browser Closed Successfully
+2018-10-29 20:59:52 INFO  Hook:59 - Chrome Browser Launched Successfully
+2018-10-29 21:00:25 INFO  ReusableSteps:62 - Enter CNet INCIDENT URL in the address bar of the browser
+2018-10-29 21:00:28 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 21:00:29 INFO  ReusableSteps:113 - Entered Username
+2018-10-29 21:00:29 INFO  ReusableSteps:120 - Entered Password
+2018-10-29 21:00:29 INFO  ReusableSteps:127 - Clicked on Login Button
+2018-10-29 21:00:45 INFO  ChangeRequestSteps:68 - Enter value in filter navigation
+2018-10-29 21:00:48 INFO  ChangeRequestSteps:81 - Click on New Button
+2018-10-29 21:00:51 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 21:00:52 INFO  ChangeRequestSteps:112 - Click On Standard Link
+2018-10-29 21:00:54 INFO  ChangeRequestSteps:123 - Click on Network Standard Changes
+2018-10-29 21:00:55 INFO  ChangeRequestSteps:134 - Click on Add Network Switch
+2018-10-29 21:00:58 INFO  ChangeRequestSteps:219 - Select Type of priority as :1 - Critical
+2018-10-29 21:00:58 INFO  ChangeRequestSteps:227 - Select Type of risk as :High
+2018-10-29 21:01:04 INFO  ChangeRequestSteps:156 - Click On Configuration Item LookUP
+2018-10-29 21:01:04 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 21:01:10 INFO  ChangeRequestSteps:236 - Select Type of impact as :1 - High
+2018-10-29 21:01:16 INFO  ChangeRequestSteps:167 - Click On Assignment Group LookUP
+2018-10-29 21:01:18 INFO  ChangeRequestSteps:187 - Switch to Multiple Window and Select Text as :CAB Approval
+2018-10-29 21:01:18 INFO  ChangeRequestSteps:197 - Switch to MainFrame
+2018-10-29 21:01:24 INFO  ChangeRequestSteps:210 - Click On Assignment TO LookUP
+2018-10-29 21:01:34 INFO  ReusableSteps:155 - Switch to Multiple Window and Select Text as :Howard Johnson
+2018-10-29 21:01:34 INFO  ReusableSteps:165 - Switch to MainFrame
+2018-10-29 21:01:34 INFO  ChangeRequestSteps:244 - Select Type of State as :Scheduled
+2018-10-29 21:01:40 INFO  ChangeRequestSteps:366 - Click On Schedule Button
+2018-10-29 21:01:45 INFO  ChangeRequestSteps:379 - Click On Planned StartDate
+2018-10-29 21:01:46 INFO  ChangeRequestSteps:385 - Click On GoToToday Date
+2018-10-29 21:01:46 INFO  ChangeRequestSteps:392 - select Ok Button
+2018-10-29 21:01:52 INFO  ChangeRequestSteps:405 - Click On Planned End Date
+2018-10-29 21:01:52 INFO  ChangeRequestSteps:413 - Click On GoToToday Date
+2018-10-29 21:01:52 INFO  ChangeRequestSteps:420 - select Ok Button
+2018-10-29 21:01:52 INFO  ChangeRequestSteps:263 - Click on Submit Button
+2018-10-29 21:01:52 INFO  ReusableSteps:204 - Switch to Multiple Window
+2018-10-29 21:01:56 INFO  ReusableSteps:94 - Switch to MainFrame
+2018-10-29 21:01:56 INFO  ChangeRequestSteps:273 - Click on Recently Created Incident for Standard
+2018-10-29 21:01:57 INFO  ChangeRequestSteps:354 - Click On Implementation Button
+2018-10-29 21:02:04 INFO  ChangeRequestSteps:509 - Verify Implement Value
+2018-10-29 21:02:10 INFO  ChangeRequestSteps:430 - Click on Review Button
+2018-10-29 21:02:11 INFO  ChangeRequestSteps:520 - Verify Review Value
+2018-10-29 21:02:17 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 21:02:18 INFO  ChangeRequestSteps:454 - Select Type of Close Code as :Successful
+2018-10-29 21:02:24 INFO  ChangeRequestSteps:445 - Click On Closure Information Tab
+2018-10-29 21:02:25 INFO  ChangeRequestSteps:465 - Enter value in Close Notes
+2018-10-29 21:02:25 INFO  ChangeRequestSteps:475 - Click On Close Button
+2018-10-29 21:02:25 INFO  ChangeRequestSteps:531 - Verify Closed Value
+2018-10-29 21:02:26 INFO  Hook:79 - Chrome Browser Closed Successfully
